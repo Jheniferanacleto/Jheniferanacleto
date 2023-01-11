@@ -1,5 +1,5 @@
 ## Oieee! 👋
-#### Me chamo Jhenifer Anacleto, tenho 17 anos e sou estudante de Full Stack.
+#### Me chamo Jhenifer Anacleto, tenho 17 anos e sou estudante Full Stack.
 <div>
 <img src="https://i.ibb.co/zSRbHWM/capa.png" alt="capa" style=""/>
 </div>
